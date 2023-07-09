@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/test.md",
+                "file": "Python/Hello.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/test.md",
+                "file": "Python/Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/test.md",
+                "file": "Python/Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/test.md"
+                "file": "Python/Hello.md"
               }
             }
           }
@@ -146,9 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a730b4cb8d4c967",
+  "active": "2e2f448668687679",
   "lastOpenFiles": [
-    "Python/test.md",
+    "Python/Hello.md",
     "Python"
   ]
 }
