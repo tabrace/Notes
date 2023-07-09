@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b1615912e227114",
+        "id": "5eb9949d652ed165",
         "type": "tabs",
         "children": [
           {
-            "id": "7a730b4cb8d4c967",
+            "id": "d19a1c6141930d21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Hello.md",
+                "file": "Python/Day 1/Obsidian check..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Hello.md",
+                "file": "Python/Day 1/Obsidian check..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Hello.md",
+                "file": "Python/Day 1/Obsidian check..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Hello.md"
+                "file": "Python/Day 1/Obsidian check..md"
               }
             }
           }
@@ -146,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e2f448668687679",
+  "active": "9d55f091d126189c",
   "lastOpenFiles": [
+    "Python/Day 1/Obsidian check..md",
     "Python/Hello.md",
+    "Python/Day 1",
     "Python"
   ]
 }
