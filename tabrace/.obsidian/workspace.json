@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "1e57e2267862895f",
+    "id": "b32feafeaf95c4fd",
     "type": "split",
     "children": [
       {
-        "id": "5eb9949d652ed165",
+        "id": "143d9fd8b24960e4",
         "type": "tabs",
         "children": [
           {
-            "id": "d19a1c6141930d21",
+            "id": "1ec8fc5254f46142",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4a896920c6854292",
+    "id": "97b1d0320ec4ccbd",
     "type": "split",
     "children": [
       {
-        "id": "0fecda90cecf3221",
+        "id": "3e6e4cb75f2d0a5f",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2f448668687679",
+            "id": "aacdd8835e41a84f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "37b48b2d06da48a5",
+            "id": "574cba0506c70fed",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "867691ebfd3339e6",
+            "id": "77c8c6951539aa49",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "6697c2e8716d49dc",
+    "id": "71d69de715f58021",
     "type": "split",
     "children": [
       {
-        "id": "aa79b8dbfabc9a21",
+        "id": "ee8d777c519094ca",
         "type": "tabs",
         "children": [
           {
-            "id": "9d55f091d126189c",
+            "id": "fffe6d07fb138ef3",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "da54c25cb54cb836",
+            "id": "4e7d9204c99dbb46",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "3464f7fed573786a",
+            "id": "5e5faf20c51fb225",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "a52e53523a8eb053",
+            "id": "a548ed51903d406a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,15 +138,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e2f448668687679",
+  "active": "aacdd8835e41a84f",
   "lastOpenFiles": [
-    "Learning/Python/day 1/Check git commit.md",
-    "Learning/Python/day 3/test.md",
-    "Learning/Python/day 3",
-    "Learning/Python/Obsidian check..md",
-    "Learning/Python/day 1",
-    "Python/Hello.md",
-    "Learning/Python",
-    "Learning"
+    "Python"
   ]
 }
