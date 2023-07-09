@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Python/day 1/Check git commit.md",
+                "file": "Learning/Python/day 3/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Python/day 1/Check git commit.md",
+                "file": "Learning/Python/day 3/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Python/day 1/Check git commit.md",
+                "file": "Learning/Python/day 3/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Python/day 1/Check git commit.md"
+                "file": "Learning/Python/day 3/test.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e2f448668687679",
+  "active": "d19a1c6141930d21",
   "lastOpenFiles": [
+    "Learning/Python/day 1/Check git commit.md",
+    "Learning/Python/day 3/test.md",
     "Learning/Python/day 3",
     "Learning/Python/Obsidian check..md",
-    "Learning/Python/day 1/Check git commit.md",
     "Learning/Python/day 1",
     "Python/Hello.md",
     "Learning/Python",
