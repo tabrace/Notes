@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e7ab945a6625435",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tabrace/Python/Day 1/Testing in Mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tabrace/Python/Day 1/Testing in Mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tabrace/Python/Day 1/Testing in Mac.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +151,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7988718dc9ce6504",
+  "active": "9e7ab945a6625435",
   "lastOpenFiles": [
-    "tabrace/Python/Day 1/test.md",
-    "tabrace/Python/Day 1/Testing in Mac.md"
+    "Untitled.canvas",
+    "2023-11-21.md",
+    "tabrace/Python/Day 1/Testing in Mac.md",
+    "tabrace/Python/Day 1/test.md"
   ]
 }
