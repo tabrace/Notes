@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5f894214af55e474",
+        "id": "857c6055fe272d90",
         "type": "tabs",
         "children": [
           {
-            "id": "4ea780a7c3adf5c4",
+            "id": "4ff335dd3b1fa9a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Day 1/Testing in Mac.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Day 1/Testing in Mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Day 1/Testing in Mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Day 1/Testing in Mac.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,15 +139,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "4ea780a7c3adf5c4",
+  "active": "4ff335dd3b1fa9a5",
   "lastOpenFiles": [
+    "Python/Day 1/Testing in Mac.md",
     "Untitled 3.canvas",
     "Python/Day 1/test.md",
     "Untitled 2.canvas",
     "2024-02-01.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Python/Day 1/Testing in Mac.md",
     "conflict-files-obsidian-git.md",
     "Python/Day 1/test 2.md",
     "Python/Day 2/test 2.md",
