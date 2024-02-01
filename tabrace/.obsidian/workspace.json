@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0433261534c5532c",
+        "id": "5f894214af55e474",
         "type": "tabs",
         "children": [
           {
-            "id": "e7c3617f69dec360",
+            "id": "4ea780a7c3adf5c4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,11 +139,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "e7c3617f69dec360",
+  "active": "4ea780a7c3adf5c4",
   "lastOpenFiles": [
+    "Untitled 2.canvas",
+    "2024-02-01.md",
+    "Python/Day 1/test.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Python/Day 1/test.md",
     "Python/Day 1/Testing in Mac.md",
     "conflict-files-obsidian-git.md",
     "Python/Day 1/test 2.md",
