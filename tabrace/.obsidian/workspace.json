@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Untitled.md",
+                "file": "Python/Day 1/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Untitled.md",
+                "file": "Python/Day 1/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Untitled.md",
+                "file": "Python/Day 1/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Untitled.md"
+                "file": "Python/Day 1/test.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "1444b2f4d9f619dd",
   "lastOpenFiles": [
-    "Python/Day 1/test.md",
+    "Python/Untitled 1.md",
     "Python/Untitled.md",
+    "Python/Day 1/test.md",
     "Python/Day 1/Testing in Mac.md",
     "2024-02-01.md",
     "Untitled.md",
