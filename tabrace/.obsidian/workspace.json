@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "857c6055fe272d90",
+        "id": "5909d5d45ca09511",
         "type": "tabs",
         "children": [
           {
-            "id": "4ff335dd3b1fa9a5",
+            "id": "1444b2f4d9f619dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/Day 1/Testing in Mac.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Day 1/Testing in Mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Day 1/Testing in Mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Day 1/Testing in Mac.md"
+              }
             }
           }
         ]
@@ -139,8 +147,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "4ff335dd3b1fa9a5",
+  "active": "1444b2f4d9f619dd",
   "lastOpenFiles": [
+    "Untitled.md",
     "Python/Day 1/Testing in Mac.md",
     "Untitled 3.canvas",
     "Python/Day 1/test.md",
