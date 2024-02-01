@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "62986cfbda06aec2",
+        "id": "0433261534c5532c",
         "type": "tabs",
         "children": [
           {
-            "id": "35ea94621c7eb21b",
+            "id": "e7c3617f69dec360",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -139,8 +146,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "35ea94621c7eb21b",
+  "active": "e7c3617f69dec360",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
     "Untitled.canvas",
     "Python/Day 1/test.md",
     "Python/Day 1/Testing in Mac.md",
