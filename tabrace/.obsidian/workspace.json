@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,16 +146,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "1444b2f4d9f619dd",
+  "active": "aacdd8835e41a84f",
   "lastOpenFiles": [
+    "2024-02-01.md",
     "Untitled.md",
+    "Untitled.canvas",
     "Python/Day 1/Testing in Mac.md",
     "Untitled 3.canvas",
     "Python/Day 1/test.md",
     "Untitled 2.canvas",
-    "2024-02-01.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "conflict-files-obsidian-git.md",
     "Python/Day 1/test 2.md",
     "Python/Day 2/test 2.md",
